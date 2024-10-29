@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 setclipboard("https://rkns.link/xgbkl")
 local Window = Rayfield:CreateWindow({
-   Name = "Dog_Lol | @durk7896",
+   Name = "Dog_Lol | @dog_lolhub",
    LoadingTitle = "Key System Completa",
    LoadingSubtitle = "by durk7896",
    ConfigurationSaving = {
