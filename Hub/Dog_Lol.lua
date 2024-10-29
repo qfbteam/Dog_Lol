@@ -10,7 +10,7 @@ local Window = Rayfield:CreateWindow({
       FileName = "Durk1files"
    },
    Discord = {
-      Enabled = true,
+      Enabled = false,
       Invite = "m4aZQFq5rt", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ABCD would be ABCD
       RememberJoins = true -- Set this to false to make them join the discord every time they load it up
    },
